@@ -234,7 +234,7 @@ a:hover, a:focus {
 
 .navbar {
     border: 0px solid rgba(0, 0, 0, 0);
-    background: #70cbce;
+    background: #eb6771;
     margin: auto;
     min-height: 60px;
     padding-top: 8px;
@@ -276,13 +276,18 @@ a:hover, a:focus {
 	margin-top: 6px;
 }
 
+.logo-small {
+  width: 140px;
+  height: 32px;
+}
+
 
 
 /* ==========================================================================
    Main styles
    ========================================================================== */
 header {
-  background: url(../img/header-bg.jpg) no-repeat center center;
+  background: url(../img/landscape2.jpg) no-repeat center center;
   width: 100%;
   padding: 20px 10px 60px 10px;
   height: 100vh;
@@ -375,7 +380,7 @@ header {
 }
 
 #be-the-first {
-  background: url(../img/Valle.png) #231f20 no-repeat center center fixed;
+  background: url(../img/flatdesign.jpg) #231f20 no-repeat center center fixed;
   min-height: 300px;
   -webkit-background-size: cover;
   -moz-background-size: cover;
